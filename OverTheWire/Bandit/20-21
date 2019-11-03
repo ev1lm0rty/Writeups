@@ -1,0 +1,8 @@
+gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
+
+setup a listner on one instance and then connect to it
+
+nc -lvnp 4444
+
+./suconnect 4444
+

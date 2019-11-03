@@ -1,0 +1,16 @@
+# Basic 
+1. Name: Haystack
+2. IP: 10.10.10.115
+3. Level: Easy
+4. UserFlag:
+5. RootFlag:
+
+# Enumeration
+1. nginx/1.12.2
+2. port 9200 and 80 for http
+3. port 22 for ssh
+
+# Interesting
+1. json tagline: "You know for search"
+2. something about spanish
+3. json used

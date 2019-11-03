@@ -1,0 +1,23 @@
+# BASIC
+
+1. Name: Networked
+2. IP: 10.10.10.146
+3. Difficulty: Easy
+
+
+# ENUMERATION   
+
+1. 80:Apache httpd 2.4.6 ((CentOS) PHP/5.4.16)
+2. 443: Connection Refused
+3. Indexpage:
+    ***
+    Hello mate, we're building the new FaceMash!
+    Help by funding us and be the new Tyler&Cameron!
+    Join us at the pool party this Sat to get a glimpse 
+    <!-- upload and gallery not yet linked -->
+    ***
+4. upload.php found but only uploads image files.
+5. galley page ?
+6. http://10.10.10.140/upload.php
+7. http://10.10.10.140/uploads
+8. http://10.10.10.146/uploads/10_10_14_140.php.png

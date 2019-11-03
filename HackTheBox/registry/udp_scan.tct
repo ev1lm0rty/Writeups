@@ -1,0 +1,4 @@
+# Nmap 7.80 scan initiated Mon Oct 28 02:01:30 2019 as: nmap -sU -T4 -oN udp_scan.tct 10..10.10.159
+Failed to resolve "10..10.10.159".
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Mon Oct 28 02:01:30 2019 -- 0 IP addresses (0 hosts up) scanned in 0.06 seconds

@@ -1,0 +1,14 @@
+# Basic 
+1. IP: 10.10.10.138
+2. Name: Writeup
+
+# Enumeration
+1. Two ports open, ssh and http
+2. Debian System
+3. Apache httpd 2.4.25
+4. robots.txt found
+5. Writeup named folder is disallowed entry.
+6.  Eeyore DoS protection script is present
+7. Backups are present
+8. CMS made simple present
+

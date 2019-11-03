@@ -1,0 +1,3 @@
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+
+find / -user bandit7 -group bandit6 -size 33c

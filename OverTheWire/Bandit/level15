@@ -1,0 +1,3 @@
+cluFn7wTiGryunymYOu4RcffSxQluehd
+
+openssl s_client -connect localhost:30001

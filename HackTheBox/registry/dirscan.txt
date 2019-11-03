@@ -1,0 +1,36 @@
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirscan.txt
+START_TIME: Sun Oct 20 04:31:05 2019
+URL_BASE: http://10.10.10.159/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: Not Stopping on warning messages
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://10.10.10.159/ ----
++ http://10.10.10.159/.bash_history (CODE:403|SIZE:580)
+
+-----------------
+DIRB v2.22    
+By The Dark Raver
+-----------------
+
+OUTPUT_FILE: dirscan.txt
+START_TIME: Sun Oct 20 05:18:24 2019
+URL_BASE: http://10.10.10.159/
+WORDLIST_FILES: /usr/share/dirb/wordlists/common.txt
+OPTION: Not Stopping on warning messages
+
+-----------------
+
+GENERATED WORDS: 4612
+
+---- Scanning URL: http://10.10.10.159/ ----
++ http://10.10.10.159/.bash_history (CODE:403|SIZE:580)

@@ -1,0 +1,13 @@
+# Nmap 7.70 scan initiated Sun Sep 29 19:50:30 2019 as: nmap -sFU -sV -oN finscan -p 34577,39723 -v 10.10.10.157
+Nmap scan report for 10.10.10.157
+Host is up (0.63s latency).
+
+PORT      STATE  SERVICE VERSION
+34577/tcp closed unknown
+39723/tcp closed unknown
+34577/udp closed unknown
+39723/udp closed unknown
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Sep 29 19:50:32 2019 -- 1 IP address (1 host up) scanned in 2.60 seconds

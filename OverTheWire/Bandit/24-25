@@ -1,0 +1,6 @@
+uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+
+bash script to form a word list
+
+then 
+cat output.txt | nc localhost 30002 >> output.txt

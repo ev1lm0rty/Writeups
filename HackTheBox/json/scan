@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Mon Sep 30 04:12:03 2019 as: nmap -sC -sV -oN scan -v 10.10.10.158
+Nmap scan report for 10.10.10.158 [host down]
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Mon Sep 30 04:12:07 2019 -- 1 IP address (0 hosts up) scanned in 4.14 seconds

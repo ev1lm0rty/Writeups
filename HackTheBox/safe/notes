@@ -1,0 +1,9 @@
+#Basic 
+1. Name: Safe
+2. Ip: 10.10.10.147
+
+#Enum
+1. Default apache webpage
+2. Some app running on port 1337
+3. It echoes back any request we sent it
+4. Need binary exploitation so can't work on this right now. hehe
