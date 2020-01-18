@@ -1,0 +1,14 @@
+Ip: 10.10.10.162
+
+# Notes
+* Uses Mongodb in the backend
+* I somehow have to perform a sql injection
+* Made a python script but it gives a less byte response
+
+# Creds
+* admin:t9KcS3>!0B#2
+* mango:h3mXK8RhU~f{]f5H
+
+# Flags
+* root.txt : 8a8ef79a7a2fbb01ea81688424e9ab15
+* user.txt : 79bf31c6c6eb38a8567832f7f8b47e92

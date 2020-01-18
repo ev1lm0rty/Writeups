@@ -1,0 +1,10 @@
+# Illumination
+* We Find that this is a git repository
+* Looking at previous commits by `git log`
+* Viewing the first commit by `git show 335d6cfe3cdc25b89cae81c50ffb957b86bf5a4a`
+* We get the base64 encoded token
+* Using a base64 decoder we get the token.
+
+
+# Flag
+* HTB{v3rsi0n_c0ntr0l_am_I_right?}
