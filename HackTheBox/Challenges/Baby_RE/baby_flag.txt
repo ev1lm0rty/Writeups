@@ -1,0 +1,5 @@
+HTB{B4BY_R3V_TH4TS_EZ}
+
+Using gidhra we find the main function and
+see the input code we put it there and get the 
+flag

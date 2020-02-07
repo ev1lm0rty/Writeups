@@ -1,0 +1,15 @@
+# Basic:
+* Name : Obscurity
+* IP : 10.10.10.168
+* Level : Medium
+
+# Notes
+* SuperSecureServer.py found at http://10.10.10.168:8080/develop/SuperSecureServer.py
+
+# Creds
+* robert:SecThruObsFTW
+* root:mercedes
+
+# Flags
+* root.txt:512fd4429f33a113a44d5acde23609e3
+* user.txt:e4493782066b55fe2755708736ada2d7
