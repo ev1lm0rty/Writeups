@@ -1,0 +1,19 @@
+# Basic
+* Name : Registry
+* IP : 10.10.10.159
+* Level : Hard
+* OS : Linux
+
+# Found a domain : docker.registry.htb
+# I guess it is hosted on docker
+# api found on /v2/
+# i guess it worked with admin:admin
+# docker registry v2 present
+# found an image name : bolt-image
+# creds GkOcz221Ftb3ugog
+# Found ssh private key and logged in as bolt user
+
+# ssh port forwarding 
+# /bolt/bolt page found 
+# logged in with admin:strawberry(found the pass by db hash)
+

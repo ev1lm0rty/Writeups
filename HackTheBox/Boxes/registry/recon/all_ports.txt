@@ -1,0 +1,1 @@
+# Nmap 7.80 scan initiated Sun Feb  2 08:15:10 2020 as: nmap -sT -T4 -A -v -p- -oN all_ports.txt docker.registry.htb
