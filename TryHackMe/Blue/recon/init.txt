@@ -1,0 +1,48 @@
+# Nmap 7.80 scan initiated Tue May 19 02:02:49 2020 as: nmap -sC -sV -oN recon/init.txt -v -Pn 10.10.199.156
+Nmap scan report for 10.10.199.156
+Host is up (0.23s latency).
+Not shown: 991 closed ports
+PORT      STATE SERVICE        VERSION
+135/tcp   open  msrpc?
+139/tcp   open  netbios-ssn?
+445/tcp   open  microsoft-ds   Windows 7 Professional 7601 Service Pack 1 microsoft-ds
+3389/tcp  open  ms-wbt-server?
+|_ssl-date: 2020-05-19T02:05:03+00:00; -4h00m01s from scanner time.
+49152/tcp open  unknown
+49153/tcp open  unknown
+49154/tcp open  unknown
+49158/tcp open  unknown
+49160/tcp open  unknown
+
+Host script results:
+|_clock-skew: mean: -2h45m00s, deviation: 2h30m00s, median: -4h00m01s
+| nbstat: NetBIOS name: JON-PC, NetBIOS user: <unknown>, NetBIOS MAC: 02:28:3c:9f:c5:90 (unknown)
+| Names:
+|   JON-PC<00>           Flags: <unique><active>
+|   WORKGROUP<00>        Flags: <group><active>
+|   JON-PC<20>           Flags: <unique><active>
+|   WORKGROUP<1e>        Flags: <group><active>
+|   WORKGROUP<1d>        Flags: <unique><active>
+|_  \x01\x02__MSBROWSE__\x02<01>  Flags: <group><active>
+| smb-os-discovery: 
+|   OS: Windows 7 Professional 7601 Service Pack 1 (Windows 7 Professional 6.1)
+|   OS CPE: cpe:/o:microsoft:windows_7::sp1:professional
+|   Computer name: Jon-PC
+|   NetBIOS computer name: JON-PC\x00
+|   Workgroup: WORKGROUP\x00
+|_  System time: 2020-05-18T21:03:30-05:00
+| smb-security-mode: 
+|   account_used: <blank>
+|   authentication_level: user
+|   challenge_response: supported
+|_  message_signing: disabled (dangerous, but default)
+| smb2-security-mode: 
+|   2.02: 
+|_    Message signing enabled but not required
+| smb2-time: 
+|   date: 2020-05-19T02:03:30
+|_  start_date: 2020-05-19T02:01:51
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue May 19 02:06:01 2020 -- 1 IP address (1 host up) scanned in 192.22 seconds
