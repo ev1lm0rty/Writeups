@@ -1,0 +1,1 @@
+# Nmap 7.80 scan initiated Sat Apr  4 06:49:11 2020 as: nmap -Pn -p- -v -T4 -oN allPorts.txt 10.10.10.178
