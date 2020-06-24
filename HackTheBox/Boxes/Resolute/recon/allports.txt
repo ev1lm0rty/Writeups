@@ -1,0 +1,28 @@
+# Masscan 1.0.5 scan initiated Tue May 26 01:38:42 2020
+# Ports scanned: TCP(65535;1-65535) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.10.10.169 ()	Ports: 636/open/tcp////
+Host: 10.10.10.169 ()	Ports: 9389/open/tcp////
+Host: 10.10.10.169 ()	Ports: 139/open/tcp////
+Host: 10.10.10.169 ()	Ports: 63646/open/tcp////
+Host: 10.10.10.169 ()	Ports: 49667/open/tcp////
+Host: 10.10.10.169 ()	Ports: 53/open/tcp////
+Host: 10.10.10.169 ()	Ports: 3268/open/tcp////
+Host: 10.10.10.169 ()	Ports: 49676/open/tcp////
+Host: 10.10.10.169 ()	Ports: 49677/open/tcp////
+Host: 10.10.10.169 ()	Ports: 49671/open/tcp////
+Host: 10.10.10.169 ()	Ports: 49666/open/tcp////
+Host: 10.10.10.169 ()	Ports: 135/open/tcp////
+Host: 10.10.10.169 ()	Ports: 49665/open/tcp////
+Host: 10.10.10.169 ()	Ports: 5985/open/tcp////
+Host: 10.10.10.169 ()	Ports: 88/open/tcp////
+Host: 10.10.10.169 ()	Ports: 464/open/tcp////
+Host: 10.10.10.169 ()	Ports: 49709/open/tcp////
+Host: 10.10.10.169 ()	Ports: 47001/open/tcp////
+Host: 10.10.10.169 ()	Ports: 445/open/tcp////
+Host: 10.10.10.169 ()	Ports: 593/open/tcp////
+Host: 10.10.10.169 ()	Ports: 389/open/tcp////
+Host: 10.10.10.169 ()	Ports: 49688/open/tcp////
+Host: 10.10.10.169 ()	Ports: 63688/open/tcp////
+Host: 10.10.10.169 ()	Ports: 49664/open/tcp////
+Host: 10.10.10.169 ()	Ports: 3269/open/tcp////
+# Masscan done at Tue May 26 01:41:03 2020
